@@ -18,7 +18,7 @@ To manually set `$JAVA_HOME` env variable:
 export "JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home";
 ```
 
-Check it using:
+Check it using this command:
 
 ```bash
 echo $JAVA_HOME
