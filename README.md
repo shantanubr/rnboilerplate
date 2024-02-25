@@ -47,6 +47,7 @@ In case if anything fails during `pod install`:
 Delete `Podfile.lock` file in the `ios` folder and run the following commands:
 
 ```bash
+# rm -rf ~/.cocoapods/repos/trunk
 rm -rf ~/Library/Caches/CocoaPods
 rm -rf Pods
 rm -rf ~/Library/Developer/Xcode/DerivedData/*
