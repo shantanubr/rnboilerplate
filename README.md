@@ -33,7 +33,7 @@ yarn
 ### For Android
 
 ```bash
-cd anrdroid && ./gradlew clean && cd ..
+cd android && ./gradlew clean && cd ..
 ```
 
 ### For iOS
